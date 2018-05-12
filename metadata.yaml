@@ -1,0 +1,27 @@
+_repo: The-Evolution-of-PhotographyWith-a-Chronological-Record-of-Discoveries-Inventions-etc.-Contri__38866
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38866-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Werge, John, active 1854-1890
+    gutenberg_agent_id: '39687'
+    url: http://www.gutenberg.org/2009/agents/39687
+description: ''
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Photography -- History'
+title: "The Evolution of Photography\r\nWith a Chronological Record of Discoveries,\
+  \ Inventions, Etc., Contributions to Photographic Literature, and Personal Reminescences\
+  \ Extending over Forty Years"
+url: http://www.gutenberg.org/ebooks/38866
